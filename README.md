@@ -37,3 +37,4 @@ Empresa especializada em capas premium com design exclusivo e padrão internacio
 
 **Desenvolvido para V6 Cover** 🎨
 
+# Deploy automático ativado
